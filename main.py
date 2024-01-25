@@ -37,4 +37,4 @@ class MyClient(discord.Client):
             #await message.add_reaction(check)            
 
 client = MyClient()
-client.run('ODM5NDA0MTA1MDM3OTA1OTMw.G2A8Y3.2nVpSxRDL1dkvNYwD8ZAhobGInzgBD21RoIOZ4')
+client.run('ODM5NDA0MTA1MDM3OTA1OTMw.GvmYS6.2m8rrD9f5In5u7JhoB1MpoOtSs7Wh3T4OjDrSU')
